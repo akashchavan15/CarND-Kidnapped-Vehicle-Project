@@ -1,3 +1,7 @@
+# Kidnapped Vehicle Project
+This repository contains the implementation of particle filter for Kidnapped Vehicle Project from Udacity's Self Driving Engineer Nanodegree program. 
+Below instructions are from original Udacity repository. 
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
